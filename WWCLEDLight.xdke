@@ -1,0 +1,236 @@
+{
+  "project": {
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {},
+    "projectSettingsVersion": "3.0.0"
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "BridgedCore.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "BridgedCore.js"
+      },
+      "CameraCore.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "CameraCore.js"
+      },
+      "Core.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "Core.js"
+      },
+      "LICENSE": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "LICENSE"
+      },
+      "README.md": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "WWCLEDLight.xdk": {
+        "previousModTime": 1480737129000,
+        "modified": 1480737129000,
+        "seen": true,
+        "name": "WWCLEDLight.xdk"
+      },
+      "WWCLEDLight.xdke": {
+        "previousModTime": 1480737259000,
+        "modified": 1480737259000,
+        "seen": true,
+        "name": "WWCLEDLight.xdke"
+      },
+      "index.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "index.js"
+      },
+      "package.json": {
+        "previousModTime": 1480737160000,
+        "modified": 1480737160000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "accessories/types.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "accessories/types.js"
+      },
+      "lib/Accessory.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/Accessory.js"
+      },
+      "lib/AccessoryLoader.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/AccessoryLoader.js"
+      },
+      "lib/Advertiser.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/Advertiser.js"
+      },
+      "lib/Bridge.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/Bridge.js"
+      },
+      "lib/Camera.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/Camera.js"
+      },
+      "lib/Characteristic.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/Characteristic.js"
+      },
+      "lib/HAPServer.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/HAPServer.js"
+      },
+      "lib/Service.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/Service.js"
+      },
+      "lib/StreamController.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/StreamController.js"
+      },
+      "lib/camera/RTPProxy.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/camera/RTPProxy.js"
+      },
+      "lib/gen/HomeKitTypes.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/gen/HomeKitTypes.js"
+      },
+      "lib/gen/import.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/gen/import.js"
+      },
+      "lib/model/AccessoryInfo.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/model/AccessoryInfo.js"
+      },
+      "lib/model/IdentifierCache.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/model/IdentifierCache.js"
+      },
+      "lib/res/snapshot.jpg": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/res/snapshot.jpg"
+      },
+      "lib/util/chacha20poly1305.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/chacha20poly1305.js"
+      },
+      "lib/util/clone.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/clone.js"
+      },
+      "lib/util/encryption.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/encryption.js"
+      },
+      "lib/util/eventedhttp.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/eventedhttp.js"
+      },
+      "lib/util/hkdf.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/hkdf.js"
+      },
+      "lib/util/once.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/once.js"
+      },
+      "lib/util/tlv.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/tlv.js"
+      },
+      "lib/util/uuid.js": {
+        "previousModTime": 1480369044000,
+        "modified": 1480369044000,
+        "seen": true,
+        "name": "lib/util/uuid.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1480737129000,
+        "modified": 1480737129000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "accessories/WWCLEDLight_accessory.js": {
+        "previousModTime": 1480737703000,
+        "modified": 1480737703000,
+        "seen": true,
+        "name": "accessories/WWCLEDLight_accessory.js"
+      }
+    },
+    "boardFileStatus": {
+      "accessories/WWCLEDLight_accessory.js": {
+        "previousModTime": 1480737704623
+      }
+    }
+  }
+}
